@@ -1,0 +1,1 @@
+The report "Comparison between Gradient Descent and BDGD methods" has been written by Betti Gianmarco (ID: 2097050), Marinelli Andrea (ID: 2091700) e Rinaldi Giorgia (ID: 2092226). There are two files: a Python notebook in which code and algorithms have been implemented and tested on datasets; a pdf file explaining the work done.
